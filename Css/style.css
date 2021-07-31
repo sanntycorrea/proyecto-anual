@@ -1,11 +1,11 @@
 body {
-    background-color: pink;
+    background-color:pink;
 }
 p {
     text-align: center; 
 }
 h2 p {
-    background-color: wheat;
+    background-color: white
 }
 h1 {
     background-color: orange; text-align: center;
