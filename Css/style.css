@@ -4,6 +4,9 @@ body {
 p {
     text-align: center; 
 }
-head{
-    
+h2 p {
+    background-color: wheat;
+}
+h1 {
+    background-color: orange; text-align: center;
 }
