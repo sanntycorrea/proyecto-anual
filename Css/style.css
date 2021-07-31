@@ -1,0 +1,20 @@
+
+#header {
+    height: 100px;
+    margin: 20px;
+    width: 958px;
+    clear: both;
+    position: relative;
+  }
+   
+  #logo {
+    background: transparent url(../imagenes/logo.jpg) no-repeat;
+    float: left;
+  }
+  #logo a {
+    display: block;
+    text-indent: -999px;
+    height: 90px; 
+    width: 240px;
+    margin: none;
+  } 
