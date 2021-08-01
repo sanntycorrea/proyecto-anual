@@ -1,1 +1,1 @@
-alert ("BIENVENIDOS A NUESTRO PROYECTO ANUAL");
+alert ("Pulse aceptar para entrar a la pagina");

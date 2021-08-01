@@ -1,5 +1,6 @@
 body {
     background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p {
     text-align: center; 
@@ -17,12 +18,13 @@ p{
     text-align: center;
 }
 
-.text {
+.m {
     width: 700px;
     height: 50px;
     position:absolute;
     top: 800px;
-    left: 40%;
+    left: 50%;
     margin: -25px 0 0 -25px;
    
 }
+
