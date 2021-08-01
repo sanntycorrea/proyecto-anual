@@ -17,5 +17,9 @@ p{
 .ajs {
     text-align: center;
 }
-
-
+table {
+    border-collapse: collapse;
+    border-spacing:40px;}
+  
+  
+  caption {caption-side:bottom;}
