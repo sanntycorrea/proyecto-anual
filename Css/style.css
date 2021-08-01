@@ -10,4 +10,19 @@ h2 p {
 h1 {
     background-color: orange; text-align: center;
 }
+p{
+    text-align: center;
+}
+.ajs {
+    text-align: center;
+}
 
+.pja {
+    width: 700px;
+    height: 50px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+   
+}
