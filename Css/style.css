@@ -2,28 +2,36 @@ body {
     background-color: pink;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 p {
     text-align: center; 
 }
+
 h2 p {
     background-color: white
 }
+
 h1 {
     background-color: orange; text-align: center;
 }
+
 p{
     text-align: center;
 }
+
 .ajs {
     text-align: center;
 }
+
 table {
     border-collapse: collapse;
     border-spacing:40px;
+    border: 20px;
      }
- caption {caption-side:bottom;}
+ caption {caption-side:bottom;
+  }
+
 
   .links {
       text-align: center;
   }
-  
