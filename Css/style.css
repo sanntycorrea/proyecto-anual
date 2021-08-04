@@ -19,10 +19,9 @@ p{
 }
 table {
     border-collapse: collapse;
-    border-spacing:40px;}
-  
-  
-  caption {caption-side:bottom;}
+    border-spacing:40px;
+     }
+ caption {caption-side:bottom;}
 
   .links {
       text-align: center;
