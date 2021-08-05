@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color:whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -8,8 +8,7 @@ p {
 }
 
 h2 p {
-    background-color: white
-}
+  font-family: Arial, Helvetica, sans-serif;
 
 h1 {
     background-color: orange; text-align: center;
