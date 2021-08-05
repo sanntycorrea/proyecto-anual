@@ -1,14 +1,10 @@
 body {
     background-color:whitesmoke;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
     text-align: center; 
-}
-
-h2 p {
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -32,6 +28,4 @@ table {
   }
 
 
-  .links {
-      text-align: center;
-  }
+  
