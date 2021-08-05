@@ -23,9 +23,9 @@ table {
     border-collapse: collapse;
     border-spacing:40px;
     border: 20px;
-     }
- caption {caption-side:bottom;
-  }
-
-
-  
+    caption-side: bottom;
+}
+footer{
+    columns: 2;
+    background-color: dimgrey;
+}
