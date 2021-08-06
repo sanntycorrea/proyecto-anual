@@ -1,14 +1,14 @@
 nav a{
     text-decoration:none;
     color:inherit;
-    font-size:10px;
+    font-size:15px;
     } 
     nav li{
     display:inline-block;
     width:10%;
     padding:14px 60px;
     background-color:rgb(253, 181, 181);
-    border:1px solid #000;
+    border:1px solid;
     text-align:center;
     color:#fff;
     }
@@ -43,4 +43,3 @@ footer{
     columns: 2;
     background-color: lightblue;   
 }
-
