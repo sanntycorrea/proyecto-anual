@@ -7,7 +7,7 @@ nav a{
     display:inline-block;
     width:10%;
     padding:14px 60px;
-    background-color:rgb(253, 181, 181);
+    background-color:pink;
     border:1px solid;
     text-align:center;
     color:#fff;
@@ -23,11 +23,6 @@ body {
 
 p {
     text-align: center; 
-}
-
-
-p{
-    text-align: center;
 }
 
 .ajs {
