@@ -1,3 +1,12 @@
+nav li{
+    float:left;
+    width:10%;
+    padding: 20px 80px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
 body {
     background-color:whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
