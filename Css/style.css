@@ -1,37 +1,40 @@
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:15px;
+    } 
+    nav li{
+    display:inline-block;
+    width:10%;
+    padding:14px 60px;
+    background-color:pink;
+    border:1px solid;
+    text-align:center;
+    color:#fff;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
 body {
     background-color:whitesmoke;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
     text-align: center; 
 }
 
-h2 p {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-    background-color: orange; text-align: center;
-}
-
-p{
-    text-align: center;
-}
-
 .ajs {
     text-align: center;
 }
-
 table {
     border-collapse: collapse;
     border-spacing:40px;
     border: 20px;
-     }
- caption {caption-side:bottom;
-  }
-
-
-  .links {
-      text-align: center;
-  }
+    caption-side: bottom;
+}
+footer{
+    columns: 2;
+    background-color: lightblue;   
+}
