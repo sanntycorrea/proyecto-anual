@@ -25,21 +25,3 @@ footer{
 #botonsubida{
     text-align: center;
 }
-nav a{
-    text-decoration:none;
-    color:inherit;
-    font-size:15px;
-    } 
-    nav li{
-    display:inline-block;
-    width:10%;
-    padding:14px 60px;
-    background-color:pink;
-    border:1px solid;
-    text-align:center;
-    color:#fff;
-    }
-    nav li:hover{
-    background-color:#fff;
-    color:#000;
-    }
