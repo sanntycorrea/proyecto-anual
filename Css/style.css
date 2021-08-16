@@ -13,15 +13,13 @@ p {
     text-align: center;
 }
 table {
-    border-collapse: collapse ;
+    border-collapse:collapse ;
     border-spacing:40px;
     border: 20px;
     caption-side: bottom;
     border-color: black;
-}
-footer{
-    columns: 2;
-    background-color: lightblue;   
+    text-align: center;
+    
 }
 #botonsubida{
     text-align: center;
@@ -44,18 +42,17 @@ nav li{
     
 nav li:hover{
     background-color:pink;
-    
     }
     #insta{
         text-align: center;
     }
 
 #footer {
-    max-width: 2100px;
-    background-color: black;
+    max-width: 1000px;
+    background-color:darksalmon;
     margin: auto;
-    border-radius: 0 0 50px;
-    color: white;
+    border-radius: 0 0 20px;
+    color: black;
     text-align: center;
     padding: 30px;
     box-sizing: border-box;
