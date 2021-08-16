@@ -49,3 +49,17 @@ nav li:hover{
     #insta{
         text-align: center;
     }
+
+#footer {
+    max-width: 2100px;
+    background-color: black;
+    margin: auto;
+    border-radius: 0 0 50px;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: arial;
+    font-size: 18px;
+
+}
