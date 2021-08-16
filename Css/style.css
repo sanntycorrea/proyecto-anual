@@ -43,8 +43,11 @@ nav li{
 nav li:hover{
     background-color:pink;
     }
+
     #insta{
         text-align: center;
+        
+        background-color: darksalmon;
     }
 
 #footer {
