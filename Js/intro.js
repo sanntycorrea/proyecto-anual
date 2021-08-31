@@ -1,6 +1,5 @@
 alert ("Pulse aceptar para entrar a la pagina URBANCHIC");
 
-
 window.addEventListener("load",function(){
 	document.getElementById("play").addEventListener("click",sonarPajaros);
 	document.getElementById("stop").addEventListener("click",callarPajaros);			
