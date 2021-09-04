@@ -6,7 +6,7 @@ function cargar() {
 
  document.addEventListener('keydown', function (evento){
      if (evento.KeyCode ==32) {
-         sonidos.innerHTML= '<audio src="sonidos.pajaritos.mp3" autoplay></audio>'; 
+         sonidos.innerHTML= '<audio src="audios/pajaritos.mp3" autoplay></audio>'; 
          }
  }) 
 

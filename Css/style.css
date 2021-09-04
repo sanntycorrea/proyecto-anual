@@ -60,6 +60,42 @@ nav li:hover{
     padding: 30px;
     box-sizing: border-box;
     font-family: arial;
-    font-size: 18px;
+    font: size 20px;
+        }
+  header {
+    width: 120%;
+    position: fixed;
+    z-index: 100;
+  }
 
-}
+
+  * {
+    padding: 0;
+    margin: 0;
+  }
+
+  nav {
+    float: center; 
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 0px;
+    color:white;
+    text-decoration: none;
+  }
+  
+  nav ul li:hover {
+    background: rgb(255, 204, 204);
+  }
