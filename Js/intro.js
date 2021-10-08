@@ -11,3 +11,4 @@ function cargar() {
  }) 
 
 }
+var Parrafo=Document.Create
