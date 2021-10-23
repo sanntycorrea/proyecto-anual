@@ -119,8 +119,8 @@ nav li:hover{
 
 .parent {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(9, 1fr);
+  grid-template-columns: repeat(25, 1fr);
+  grid-template-rows: repeat(20, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   }
